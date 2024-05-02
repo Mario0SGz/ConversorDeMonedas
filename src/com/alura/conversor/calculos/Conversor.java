@@ -35,11 +35,7 @@ public class Conversor {
             // Realizar la conversión
             Monedas monedas = conexionMonedas.monedaBase(monedaBase, monedaObjetivo, montoConver);
             if (monedas != null) {
-                System.out.println("Tasa de cambio de " + monedaBase + " a " + monedaObjetivo + ":");
-                System.out.println("Moneda base: " + monedas.base_code());
-                System.out.println("Moneda objetivo: " + monedas.target_code());
-                System.out.println("Tasa de cambio: " + monedas.conversion_rate());
-                System.out.println("La conversión es: " + monedas.conversion_result());
+                System.out.println("La conversión de ["+monedas.base_code()+"] a ["+monedas.target_code()+"] es de: $"+ monedas.conversion_result()+" "+monedas.target_code());
             } else {
                 System.out.println(Colors.NEGRITA + Colors.ROJO + "No se pudo obtener la tasa de cambio para las monedas ingresadas." + Colors.RESET);
             }
