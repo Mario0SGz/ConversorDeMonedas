@@ -1,9 +1,10 @@
 # Currency Exchange Challenge
 
-![GitHub](https://img.shields.io/github/license/tu-usuario/tu-repositorio)
-![GitHub repo size](https://img.shields.io/github/repo-size/tu-usuario/tu-repositorio)
+[![GitHub](https://img.shields.io/github/license/Mario0SGz/ConversorDeMonedas)](https://github.com/Mario0SGz/ConversorDeMonedas/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/Mario0SGz/ConversorDeMonedas)
 
-Reto propuesto por Alura como parte de su Bootcamp Alura-ONE Oracle. Desarrollado por [TuNombre](https://github.com/Mario0SGz), del grupo G6-2024.
+
+Reto propuesto por Alura como parte de su Bootcamp Alura-ONE Oracle. Desarrollado por [Mario Serrano](https://github.com/Mario0SGz), del grupo G6-2024.
 
 ## Descripción del Reto
 
