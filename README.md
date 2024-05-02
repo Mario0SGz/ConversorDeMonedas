@@ -23,8 +23,8 @@ Crear una aplicación en la terminal de Java que realice el cambio de moneda. Se
 
 ## Capturas de Pantalla
 
-![Captura de Pantalla 1](imagenes/menu.png)
-![Captura de Pantalla 2](imagenes/capturaDos.png)
+![Captura de Pantalla 1](Imagenes/menu.png)
+![Captura de Pantalla 2](Imagenes/capturaDos.png)
 
 
 
