@@ -1,7 +1,5 @@
-# Currency Exchange Challenge
+# Convertidor de Monedas
 
-[![GitHub](https://img.shields.io/github/license/Mario0SGz/ConversorDeMonedas)](https://github.com/Mario0SGz/ConversorDeMonedas/blob/main/LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/Mario0SGz/ConversorDeMonedas)
 
 Reto propuesto por Alura como parte de su Bootcamp Alura-ONE Oracle. Desarrollado por [Mario Serrano](https://github.com/Mario0SGz), del grupo G6-2024.
 
@@ -24,13 +22,13 @@ Crear una aplicación en la terminal de Java que realice el cambio de moneda. Se
 4. Sigue las instrucciones en pantalla para realizar la conversión de moneda.
 
 ## Capturas de Pantalla
-  
+
+![Captura de Pantalla 1](imagenes/menu.png)
+![Captura de Pantalla 2](imagenes/capturaDos.png)
+
+
 
 ## Contribución
 
 Las contribuciones son bienvenidas. Si tienes ideas para mejorar este proyecto, no dudes en contribuir.
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
 
